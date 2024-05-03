@@ -9,7 +9,7 @@
     gap: 10rem;
     position: absolute;
     top: 35vh;
-    left: 20vw;
+    left: 15vw;
 }
 .right{
     display: flex;
@@ -19,7 +19,7 @@
     gap: 10rem;
     position: absolute;
     top: 35vh;
-    right: 20vw;
+    right: 15vw;
 }
 .top{
     display: flex;
@@ -27,7 +27,7 @@
     align-items: center;
     gap: 20rem;
     position: absolute;
-    top: 4vh;
+    top: 0vh;
     left: 36vw;
 }
 .bottom{
@@ -36,7 +36,7 @@
     align-items: center;
     gap: 20rem;
     position: absolute;
-    bottom: -96vh;
+    bottom: -100vh;
     left: 36vw;
 }
 
