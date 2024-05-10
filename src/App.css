@@ -1,5 +1,6 @@
 .main{
     position: relative;
+    height: 100vh;
 }
 .left{
     display: flex;
@@ -9,7 +10,7 @@
     gap: 10rem;
     position: absolute;
     top: 35vh;
-    left: 15vw;
+    left: 13vw;
 }
 .right{
     display: flex;
@@ -19,7 +20,7 @@
     gap: 10rem;
     position: absolute;
     top: 35vh;
-    right: 15vw;
+    right: 13vw;
 }
 .top{
     display: flex;
@@ -27,8 +28,8 @@
     align-items: center;
     gap: 20rem;
     position: absolute;
-    top: 0vh;
-    left: 36vw;
+    top: -3vh;
+    left: 30vw;
 }
 .bottom{
     display: flex;
@@ -36,8 +37,8 @@
     align-items: center;
     gap: 20rem;
     position: absolute;
-    bottom: -100vh;
-    left: 36vw;
+    bottom: 3vh;
+    left: 30vw;
 }
 
 body{
@@ -65,4 +66,3 @@ button:hover{
     color: white;
     font-size: medium;
 }
-
